@@ -52,7 +52,3 @@ Recherchez ensuite le nom du site (ici `vinted`) dans la barre de recherche du m
 🎉 Félicitations ! Vous venez de créer votre premier raccourci avec **Racourcix** !  
 
 *En cas de problème ou de question, n’hésitez pas à ouvrir une **issue** dans le dépôt du projet. Je ferai de mon mieux pour vous répondre rapidement.*
-
----
-
-Made with ❤️ by Kélian
